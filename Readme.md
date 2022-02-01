@@ -1,6 +1,6 @@
 <p style="text-align: center; font-size: 18px">Sobre</p>
 <p style="font-size: 16px">
-Essa projeto é uma parte da prova para vaga de estágio na Syscoin, consiste em uma Api Rest desenvolvida em Javascript com NodeJS e Express que recebe os dados via query prams, faz a verificação dos dados recebidos e retorna um Json com o status da requisição.
+Essa projeto é uma parte da prova para vaga de estágio na Syscoin, consiste em uma Api Rest desenvolvida em Javascript com NodeJS e Express que recebe os dados via query params, faz a verificação dos dados recebidos e retorna um Json informando se foi aceita ou não. A aplicação está hospedada em uma instância EC2 simples na AWS.
 </p>
 
 
